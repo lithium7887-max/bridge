@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ipTIME USB동글 - 최저가 확인</title>
+    <style>
+        body { font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; background-color: #f4f7f9; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+        .container { background-color: #ffffff; width: 100%; max-width: 500px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); padding: 40px 20px; text-align: center; margin: 20px; }
+        .logo { font-size: 14px; color: #007bff; font-weight: bold; margin-bottom: 20px; letter-spacing: 1px; }
+        .product-image { width: 100%; max-width: 300px; height: auto; border-radius: 15px; margin-bottom: 25px; }
+        h1 { font-size: 22px; color: #333; line-height: 1.4; margin-bottom: 15px; word-break: keep-all; }
+        
+        /* 배너 중앙 정렬 스타일 */
+        .banner-wrapper { display: flex; justify-content: center; margin: 20px 0; }
+        
+        .price-info { color: #e74c3c; font-size: 20px; font-weight: bold; margin-bottom: 30px; }
+        .btn { display: inline-block; background-color: #007bff; color: white; padding: 18px 40px; border-radius: 50px; text-decoration: none; font-size: 18px; font-weight: bold; transition: transform 0.2s, background-color 0.2s; box-shadow: 0 5px 15px rgba(0,123,255,0.3); }
+        .btn:active { transform: scale(0.95); background-color: #0056b3; }
+        .notice { font-size: 12px; color: #999; margin-top: 30px; line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">컴퓨터 구조대 홍반장</div>
+        
+        <img src="https://via.placeholder.com/300x300?text=ipTIME+BT50" alt="ipTIME USB동글" class="product-image">
+        
+        <h1>ipTIME USB동글 (블루투스 5.0/5.3)</h1>
+
+        <div class="banner-wrapper">
+            <iframe src="https://coupa.ng/clytXv" width="120" height="240" frameborder="0" scrolling="no" referrerpolicy="unsafe-url" browsingtopics></iframe>
+        </div>
+
+        <div class="price-info">나에게 맞는 상품 확인하기</div>
+        
+        <a href="https://link.coupang.com/a/dHRuiC" class="btn">구매처로 이동하기</a>
+        
+        <p class="notice">
+            * 파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있습니다.<br>
+            방문해 주셔서 감사합니다.
+        </p>
+    </div>
+</body>
+</html>
